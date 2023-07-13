@@ -1,7 +1,7 @@
 package com.citibank.domain;
 import java.util.Random;
 
-public class Account {
+abstract public class Account {
 	
 	private int acctNumber;
 	private String name;
